@@ -1,8 +1,12 @@
 # Build components and Slack in ReactJS #
 
+**Clone the project**
+
+- `git clone https://github.com/NicolaNauwynck/Start2React`
+
 **Install the dependencies**
 
-- `npm install -g gulp`
+- `npm install -global gulp`
 - `npm install`
 
 **Start the application**
